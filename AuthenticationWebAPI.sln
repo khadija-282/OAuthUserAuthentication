@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAuthentication", "WebApplication1\LoginAuthentication.csproj", "{4DBD91EC-EFFB-455D-B0C0-48597D51A77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D556D17D-46C9-42B4-BF1B-3686C6A9FB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBD91EC-EFFB-455D-B0C0-48597D51A77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBD91EC-EFFB-455D-B0C0-48597D51A77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBD91EC-EFFB-455D-B0C0-48597D51A77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBD91EC-EFFB-455D-B0C0-48597D51A77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D556D17D-46C9-42B4-BF1B-3686C6A9FB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D556D17D-46C9-42B4-BF1B-3686C6A9FB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D556D17D-46C9-42B4-BF1B-3686C6A9FB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D556D17D-46C9-42B4-BF1B-3686C6A9FB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152ED43E-C695-4228-9CAE-E2F3ADC6CC00}
+	EndGlobalSection
+EndGlobal
